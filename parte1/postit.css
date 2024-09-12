@@ -43,32 +43,40 @@ body {
 .n1 {
   background-color: #f9fac8;
   transform: rotate(-5deg);
+  background: linear-gradient(to top, #868686 5%, #9e9e9e 10%, #f9fac8 70%);
 }
 .n2 {
   background-color: #c8f8ca;
   transform: rotate(5deg);
+  background: linear-gradient(to top, #868686 5%, #9e9e9e 10%, #c8f8ca 70%);
 }
 .n3 {
   background-color: #c5c5f0;
   transform: rotate(-5deg);
+  background: linear-gradient(to top, #868686 5%, #9e9e9e 10%, #c5c5f0 70%);
 }
 .n4 {
   background-color: #c8f8ca;
   transform: rotate(5deg);
+  background: linear-gradient(to top, #868686 5%, #9e9e9e 10%, #c8f8ca 70%);
 }
 .n5 {
   background-color: #f9fac8;
   transform: rotate(-5deg);
+  background: linear-gradient(to top, #868686 5%, #9e9e9e 10%, #f9fac8 70%);
 }
 .n6 {
   background-color: #c5c5f0;
   transform: rotate(5deg);
+  background: linear-gradient(to top, #868686 5%, #9e9e9e 10%, #c5c5f0 70%);
 }
 .n7 {
   background-color: #f9fac8;
   transform: rotate(-5deg);
+  background: linear-gradient(to top, #868686 5%, #9e9e9e 10%, #f9fac8 70%);
 }
 .n8 {
   background-color: #c8f8ca;
   transform: rotate(5deg);
+  background: linear-gradient(to top, #868686 5%, #9e9e9e 10%, #c8f8ca 70%);
 }
