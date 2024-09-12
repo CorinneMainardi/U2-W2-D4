@@ -20,12 +20,25 @@ body {
   gap: 50px;
   padding-left: 70px;
 }
+
 .postit {
   margin-top: 50px;
   color: black;
   width: 200px;
   height: 170px;
   box-shadow: 5px 5px 7px rgba(33, 33, 33, 0.7);
+  animation: lancio 2s alternate ease-in-out;
+}
+@keyframes lancio {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.8, 0.6);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
 .postit:hover {
   transform: scale(1.5);
